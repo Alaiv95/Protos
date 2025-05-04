@@ -1,4 +1,4 @@
-module protos
+module github.com/Alaiv95/Protos
 
 go 1.24.2
 
